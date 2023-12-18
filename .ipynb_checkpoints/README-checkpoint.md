@@ -4,6 +4,8 @@ In this Challenge, various techniques are used to train and evaluate a model bas
 
 ## Resources
 
+Class activites and staff instruction
+
 https://scikit-learn.org/stable/modules/generated/sklearn.metrics.balanced_accuracy_score.
 
 https://imbalanced-learn.org/dev/references/generated/imblearn.over_sampling.RandomOverSampler.html
